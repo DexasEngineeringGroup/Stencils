@@ -6,9 +6,9 @@ Each folder contains two .rar archives, one with "Gerber files" and another with
 For now, all of the stencils are untested - i have received them and made sure that they properly fit, ball pitch and size matches the chip, but i dont have correct size balls to attempt the actual reball. Adding a list below to later on confirm the stuff which has been tested already so we can keep track of it.<br />
 
 Micron_Controller_DM02A1 - Untested <br />
-Micron_DRAM_D8CSC - Untested <br />
+Micron_DRAM_D8CSC - Good but needs bigger balls than 0.35 (0.4-0.45) <br />
 Micron_NAND_FP51208UCM1-B1 - Untested <br />
-Micron_NAND_NY253 - Untested <br />
+Micron_NAND_NY253 - Confirmed good with 0.45mm balls <br />
 Phison_Controller_PS5018-E18-41 - Untested <br />
-Phison_Controller_PS5026-E26-52 - Untested <br />
+Phison_Controller_PS5026-E26-52 - Good <br />
 
